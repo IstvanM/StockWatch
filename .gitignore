@@ -1,0 +1,6 @@
+# Created by .ignore support plugin (hsz.mobi)
+/StockWatch.iml
+.idea/
+**/*.iml
+server-core/src/main/resources/static/
+server-core/src/main/resources/templates/
